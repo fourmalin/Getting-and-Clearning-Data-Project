@@ -26,7 +26,7 @@ The set of variables that were estimated from these signals are:
 <h6>kurtosis(): Kurtosis of the frequency domain signal</h6>
 <h6>bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.</h6>
 <h6>angle(): Angle between some vectors.</h6>
-No unit of measures is reported as all features were normalized and bounded within [-1,1].
+<p>No unit of measures is reported as all features were normalized and bounded within [-1,1].</p>
 Data transformation
 The raw data sets are processed with run_analisys.R script to create a tidy data set.
 Merge training and test sets
